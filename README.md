@@ -64,22 +64,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devopswithhari&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
 
 ---
-### 🔥 GitHub Contribution Streak
 
-![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
+### 🔥 My Contribution Streak (Animated)
 
----
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=devopswithhari&limit=5&theme=flat&combine_all_yearly_contributions=true)
-
----
-
-### 👨‍💼 About Me & 🤝 Open to Collaborations
-
-🎤 Available for **Guest Sessions / Webinars**  
-🤝 Open to **Project Collaborations / Tech Collabs**  
-💼 Offering **DevOps Consulting / Mentorship (Learning)**  
-📧 Let’s chat: [hareesh.devopswithhari@gmail.com](mailto:hareesh.devopswithhari@gmail.com)
-
-> *"Aspiring DevOps Engineer on a continuous learning journey. Let’s automate and innovate the future, one pipeline at a time!"*
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devopswithhari&theme=radical&hide_border=true&background=0D1117&stroke=0000&ring=FF6E96&fire=FF6E96&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6E96&sideLabels=FFFFFF&dates=AAAAAA" alt="GitHub Streak" />
+</p>
