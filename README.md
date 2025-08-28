@@ -1,7 +1,7 @@
 <h1 align="center">Hey Everyone 👋, I'm DevOpsWithHari</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+DevOps+Engineer;DevOps+Engineer+(Trainee);Ongoing+Learning+Journey" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+DevOps+Engineer;Aspiring+DevOps+Engineer+(Trainee);Ongoing+Learning+Journey" alt="Typing Animation"/>
 </div>
 
 <h3 align="center">Aspiring DevOps Engineer |Trainee / Ongoing Learning</h3>
