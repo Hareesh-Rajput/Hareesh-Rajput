@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+DevOps+Engineer;DevOps+Engineer+(Trainee);Ongoing+Learning+Journey" alt="Typing Animation"/>
 </div>
 
-<h3 align="center">Aspiring DevOps Engineer | DevOps Engineer (Trainee / Ongoing Learning)</h3>
+<h3 align="center">Aspiring DevOps Engineer |Trainee / Ongoing Learning</h3>
 
 <p align="center">
   <a href="https://github.com/devopswithhari">
@@ -25,7 +25,8 @@
 </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/devopswithhari](https://github.com/devopswithhari)  
-- 💬 Ask me about **DevOps & Cloud DevOps**  
+- 🚀 On my journey to become a Professional DevOps Engineer**
+- 🎯 Focused on mastering DevOps, Cloud & Automation
 - 📫 How to reach me <a href="https://www.instagram.com/devopswithhari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="20" width="20" /></a>
 
 ---
