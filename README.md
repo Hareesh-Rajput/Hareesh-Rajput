@@ -68,5 +68,10 @@
 ### 🔥 My Contribution Streak (Animated)
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devopswithhari&theme=radical&hide_border=true&background=0D1117&stroke=0000&ring=FF6E96&fire=FF6E96&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6E96&sideLabels=FFFFFF&dates=AAAAAA" alt="GitHub Streak" />
+  ### 🔥 My Contribution Streak (Animated)
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devopswithhari&theme=radical&hide_border=true&background=0D11117&stroke=0000&ring=FF6E96&fire=FF6E96&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6E96&sideLabels=FFFFFF&dates=AAAAAA" alt="GitHub Streak"/>
+</p>
+
 </p>
