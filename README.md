@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+DevOps+Engineer;Ongoing+DevOps+Journey" alt="Typing Animation"/>
 </div>
 
-
 <h3 align="center">Aspiring DevOps Engineer |Trainee / Ongoing Learning</h3>
 
 <p align="center">
@@ -67,13 +66,21 @@
 
 ---
 
-### 🔥 My Contribution Streak (Animated)
+### 📊 GitHub Activity & Monitoring  
 
 <p align="center">
-  ### 🔥 My Contribution Streak (Animated)
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devopswithhari&theme=radical&hide_border=true&background=0D11117&stroke=0000&ring=FF6E96&fire=FF6E96&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6E96&sideLabels=FFFFFF&dates=AAAAAA" alt="GitHub Streak"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devopswithhari&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devopswithhari&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devopswithhari&theme=radical" alt="Profile Details"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devopswithhari&theme=radical&utcOffset=5.3" alt="Commit Time"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devopswithhari&theme=radical" alt="Most Used Languages"/>
 </p>
