@@ -10,7 +10,7 @@
   <a href="https://github.com/devopswithhari">
     <img src="https://img.shields.io/github/followers/devopswithhari?label=Follow&style=social" />
   </a>
-  <a href="https://linkedin.com/in/hareesh-kumar-02045a339">
+  <a href="https://www.linkedin.com/in/hareesh-rajput/">
     <img src="https://img.shields.io/badge/LinkedIn-Hareesh%20Kumar-blue?logo=linkedin&style=flat-square" />
   </a>
   <a href="https://www.instagram.com/devopswithhari">
