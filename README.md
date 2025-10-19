@@ -24,7 +24,7 @@
   <img src="https://komarev.com/ghpvc/?username=devopswithhari&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/devopswithhari](https://github.com/devopswithhari)  
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Hareesh-Rajput)  
 - 🚀 On my journey to become a Professional DevOps Engineer**
 - 🎯 Focused on mastering DevOps, Cloud & Automation
 - 📫 How to reach me <a href="https://www.instagram.com/devopswithhari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="20" width="20" /></a>
