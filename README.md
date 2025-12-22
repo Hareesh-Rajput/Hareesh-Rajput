@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/hareesh-rajput/">
     <img src="https://img.shields.io/badge/LinkedIn-Hareesh%20Kumar-blue?logo=linkedin&style=flat-square" />
   </a>
-  <a href="https://www.instagram.com/devopswithhari">
+  <a href="https://www.instagram.com/heridash24/">
     <img src="https://img.shields.io/badge/Instagram-@devopswithhari-pink?logo=instagram&style=flat-square" />
   </a>
 </p>
