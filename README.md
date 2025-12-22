@@ -27,7 +27,7 @@
 - 👨‍💻 All of my projects are available at [Github](https://github.com/Hareesh-Rajput)  
 - 🚀 On my journey to become a Professional DevOps Engineer**
 - 🎯 Focused on mastering DevOps, Cloud & Automation
-- 📫 How to reach me <a href="https://www.instagram.com/devopswithhari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="20" width="20" /></a>
+- 📫 How to reach me <a href="https://www.instagram.com/heridash24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="20" width="20" /></a>
 
 ---
 
